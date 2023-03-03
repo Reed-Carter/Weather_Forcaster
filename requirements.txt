@@ -2,3 +2,6 @@ jupyterlab
 pandas
 matplotlib
 scikit-learn
+requests-html
+google-cloud-bigquery
+google-cloud-storage
