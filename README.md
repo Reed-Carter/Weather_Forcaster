@@ -20,6 +20,7 @@ Airflow will orchestrate the pipeline so the forecast remains current.
 
 * [National Weather Service](https://www.weather.gov/)
 * [Local Conditions](https://www.localconditions.com/weather-milwaukee-wisconsin/53201/past.php)
+* [NOAA API](https://www.ncei.noaa.gov/cdo-web/search)
 
 
 ### Setup/Installation Requirements
