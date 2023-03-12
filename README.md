@@ -36,7 +36,9 @@ The airflow dag specifying each task can be found below as well as a graph demon
 
 The results were displayed on a looker studio dashboard which can be found [here](https://lookerstudio.google.com/reporting/a89d9167-97f7-4bfa-8d0f-df683482449e/page/prvHD)
 
+![Weather Forecast](./images/)
 
+![example of visualizations](./images/weather_visualization.gif)
 
 
 ### Setup/Installation Requirements
