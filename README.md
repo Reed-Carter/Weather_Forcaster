@@ -26,7 +26,11 @@ Airflow will orchestrate the pipeline so the forecast remains current.
 
 Current weather conditions including precip, high temps, low temps, humidity, etc. are scraped from the NWS using beautiful soup. That data is then cleaned and transformed to be inputted into the forecasting model to produce a 10 day forecast estimating high temps of 11 cities around the US. The forecasting model uses the Sklearn library in python to perform a multiple linear regression to make the prediction. The data is then uploaded to google BigQuery to be presented in looker studio. 
 
-[simple_dag](./images/ezgif.com-gif-maker.gif)
+The airflow dag specifying each task can be found below as well as a graph demonstrating the actual and predicted temperatures of the model for the city of Fairbanks, AK in the year 2022. 
+
+![simple_dag](./images/ezgif.com-gif-maker.gif)
+
+![Model test](./images/Screenshot%20from%202023-03-08%2019-43-45.png)
 
 
 ### Setup/Installation Requirements
