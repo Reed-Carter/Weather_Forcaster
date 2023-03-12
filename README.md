@@ -22,6 +22,10 @@ Airflow will orchestrate the pipeline so the forecast remains current.
 * [Local Conditions](https://www.localconditions.com/weather-milwaukee-wisconsin/53201/past.php)
 * [NOAA API](https://www.ncei.noaa.gov/cdo-web/search)
 
+### The Process
+
+[simple_dag](./images/dw_webscrape_daily_gif.gif)
+
 
 ### Setup/Installation Requirements
 **_Clone repo to your local system:_**
