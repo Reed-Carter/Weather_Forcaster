@@ -32,6 +32,12 @@ The airflow dag specifying each task can be found below as well as a graph demon
 
 ![Model test](./images/Screenshot%20from%202023-03-08%2019-43-45.png)
 
+### Results
+
+The results were displayed on a looker studio dashboard which can be found [here](https://lookerstudio.google.com/reporting/a89d9167-97f7-4bfa-8d0f-df683482449e/page/prvHD)
+
+
+
 
 ### Setup/Installation Requirements
 **_Clone repo to your local system:_**
