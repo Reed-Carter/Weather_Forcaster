@@ -24,7 +24,9 @@ Airflow will orchestrate the pipeline so the forecast remains current.
 
 ### The Process
 
-[simple_dag](./images/dw_webscrape_daily_gif.gif)
+Current weather conditions including precip, high temps, low temps, humidity, etc. are scraped from the NWS using beautiful soup. That data is then cleaned and transformed to be inputted into the forecasting model to produce a 10 day forecast estimating high temps of 11 cities around the US. The forecasting model uses the Sklearn library in python to perform a multiple linear regression to make the prediction. The data is then uploaded to google BigQuery to be presented in looker studio. 
+
+[simple_dag](./images/ezgif.com-gif-maker.gif)
 
 
 ### Setup/Installation Requirements
