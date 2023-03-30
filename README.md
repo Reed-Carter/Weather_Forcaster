@@ -2,9 +2,9 @@
 Uses machine learning to predict the weather
 
 #### By [Reed Carter]
-This project will use weather data and machine learning to crease a 10 day weather forecast presented on a looker studio dashboard for 11 cities around the country.
+This project will use weather data and machine learning to create a 10 day weather forecast presented on a looker studio dashboard for 11 cities around the country.
 
-Airflow will orchestrate the pipeline so the forecast remains current. 
+The ETL pipeline is orchestrated using Apache Airflow so the forecast remains current. 
 
 ### Technologies Used
 
