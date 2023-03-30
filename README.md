@@ -8,7 +8,7 @@ The ETL pipeline is orchestrated using Apache Airflow so the forecast remains cu
 
 ### Technologies Used
 
-* Python (BeautifulSoup)
+* Python (BeautifulSoup, Pandas)
 * Airflow (via Docker)
 * Google Cloud Platform (BigQuery, Looker Studio)
 * SQL
