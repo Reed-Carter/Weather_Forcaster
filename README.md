@@ -1,7 +1,7 @@
 # Weather Forecaster
 Uses machine learning to predict the weather
 
-#### By [Reed Carter]
+#### By Reed Carter
 This project uses weather data and machine learning to create a 10 day weather forecast presented on a looker studio dashboard for 11 cities around the country.
 
 The ETL pipeline is orchestrated using Apache Airflow so the forecast remains current. 
