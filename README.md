@@ -34,7 +34,7 @@ The airflow dag specifying each task can be found below as well as a graph demon
 
 ### Results
 
-The results were displayed on a looker studio dashboard which can be found [here](https://lookerstudio.google.com/reporting/a89d9167-97f7-4bfa-8d0f-df683482449e/page/prvHD(https://lookerstudio.google.com/s/mIgK6hgi1VU))
+The results were displayed on a looker studio dashboard which can be found [here](https://lookerstudio.google.com/s/mIgK6hgi1VU)
 
 <img src="./images/Screenshot%20from%202023-03-11%2022-48-48.png" width='500'>
 
